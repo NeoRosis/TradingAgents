@@ -24,3 +24,4 @@ rich
 questionary
 langchain_anthropic
 langchain-google-genai
+protobuf>=6.33.5 # not directly required, pinned by Snyk to avoid a vulnerability
